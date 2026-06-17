@@ -48,7 +48,14 @@ Production Files: [HERE](/Resources/)
 ## Assembly
 
 You will need:
-- 
+- PCB (PCBA with ICs attached if you do not have a way to solder smd parts without legs, the assumed method of this assembly guide)
+- Rest of ICS needed
+- Required Heatset Inserts
+- All printed parts
+- Soldering iron
+- Solder
+- Matching screwdriver to screw set (allen key in provided kit)
+- Small pair of tweasers
 
 ## Bill Of Materials
 
@@ -56,9 +63,13 @@ You will need:
 
 ## Photos
 
-Miniamp PCB Schematic
+Miniamp Main PCB Schematic
 
-![Miniamp PCB Schematic](Images/Miniamp_Schematic_Page.jpg)
+![Miniamp Main PCB Schematic](Images/Miniamp_Main_Schematic_Page.jpg)
+
+Miniamp Power PCB Schematic
+
+![Miniamp Power PCB Schematic](Images/Miniamp_Power_Schematic_Page.jpg)
 
 Miniamp Case Front
 
