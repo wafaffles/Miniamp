@@ -18,7 +18,17 @@ A portable, battery powered Hi-Fi DAC and headphone amplifier.
 
 ## Features
 
-
+- Independent USB-C Ports
+  - Top Mounted Data Only USB-C
+  - Side Mounted Power Only USB-C
+- Variable Size Audio Outputs
+  - 1/4"
+  - 3.5mm
+- 5 Physical Media Control Buttons
+- Toggleable Power Switch
+- 2 Integrated 18650 Batteries
+  - Avoids Discharging Connected Device (e.g., Mobile Phone, Laptop)
+- Small Form Factor
 
 ## What is it?
 
