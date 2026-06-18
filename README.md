@@ -32,12 +32,11 @@ A portable, battery powered Hi-Fi DAC and headphone amplifier.
 
 ## What is it?
 
-
-
+Miniamp is a portable, battery powered DAC and headphone amp designed for phones, portable devices, or for desk deployments. The Miniamp features a Hifi DAC chip capable of producing 24bit 44.1kHz outputs at 2.1Vrms, with adequite power for majority of headphones. It utilizes a Silicon Labs CP2615-A02-GM USB to I2S chip, a Cirrus Logic WM8524CGEDT DAC, and an Analog Devices MAX97220AETE+T headphone amplifier. It also has a battery charging and protection circuit to handle charing, protection, and output regulation to the ICs using 2 18650 batteries in a 1s2p configuration. This setup removes power draw from the data streaming device and offloads it to the batteries, with a passthrough power circuit to power all devices externally with a long battery life.
+ 
 ## Resources
 
-
-CAD Link: 
+CAD Link: https://cad.onshape.com/documents/a14a9a55c78bf32f82e1c97a/w/0351478092a46614c60a771f/e/1fa4c67b30b50298fb86e419?renderMode=0&uiState=6a336e0a197a1dd98d81aa96
 
 CAD Files: [HERE](/3DModels)
 
@@ -59,17 +58,19 @@ You will need:
 
 ## Bill Of Materials
 
+BOM: [HERE](https://docs.google.com/spreadsheets/d/1Rq9yz0U521aMRGwPaQNTlH2bsf_DakTQIQjvENSfLP8/edit?usp=sharing)
 
+PCBA BOM: [HERE](https://docs.google.com/spreadsheets/d/17-cePCVTrSii_cqeCaBxXgTqAQEytrTk/edit?usp=sharing&ouid=108713575531525219545&rtpof=true&sd=true)
 
 ## Photos
 
 Miniamp Main PCB Schematic
 
-![Miniamp Main PCB Schematic](Images/Miniamp_Main_Schematic_Page.jpg)
+![Miniamp Main PCB Schematic](Images/Miniamp_Main_Schematic_Page.png)
 
 Miniamp Power PCB Schematic
 
-![Miniamp Power PCB Schematic](Images/Miniamp_Power_Schematic_Page.jpg)
+![Miniamp Power PCB Schematic](Images/Miniamp_Power_Schematic_Page.png)
 
 Miniamp Case Front
 
@@ -81,7 +82,7 @@ Miniamp Case Back
 
 Miniamp Case Inside
 
-![Miniamp Case Inside](Images/Miniamp_Case_Empty.png)
+![Miniamp Case Inside](Images/Miniamp_Case_Inside.png)
 
 PCB All Layers
 
@@ -111,13 +112,13 @@ PCB B.Cu Layer
 
 ![PCB B.Cu Layer](Images/Miniamp_B.CU.png)
 
-Fromt of PCB
+Top of PCB
 
-![Front of PCB](Images/Miniamp_Front.png)
+![Top of PCB](Images/Miniamp_PCB_Top.png)
 
-Back of PCB
+Bottom of PCB
 
-![Back of PCB](Images/Miniamp_Back.png)
+![Bottom of PCB](Images/Miniamp_PCB_Bottom.png)
 
 ## Credits
 
