@@ -110,7 +110,7 @@ PCB In4.Cu Layer
 
 PCB B.Cu Layer
 
-![PCB B.Cu Layer](Images/Miniamp_B.CU.png)
+![PCB B.Cu Layer](Images/Miniamp_B.Cu.png)
 
 Top of PCB
 
