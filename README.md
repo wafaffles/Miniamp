@@ -56,11 +56,21 @@ You will need:
 - Matching screwdriver to screw set (allen key in provided kit)
 - Small pair of tweasers
 
+1. Gather all resources, print all case parts, and have a clean open workspace
+2. Carefully solder all components not installed with PCBA according to the schematics and ECAD files (most resistors, caps, and all THT parts)
+3. With the PCB assembled now, to start assembling the case you want to heat your soldering iron to about 225°C and carefully insert the M3 heatset inserts into the standoffs on the top case part.
+4. Now that both the case is assembled and ready, and the PCB is ready, test the PCB outside of its case to ensure it will work without issue. If there is an error, seek help or investigate to make sure all components are placed correctly.
+5. Insert the PCB into the top case, slide on the TPU band, and screw in the bottom case using the 4 M3 bolts
+6. Enjoy!
+
+
 ## Bill Of Materials
 
 BOM: [HERE](https://docs.google.com/spreadsheets/d/1Rq9yz0U521aMRGwPaQNTlH2bsf_DakTQIQjvENSfLP8/edit?usp=sharing)
 
 PCBA BOM: [HERE](https://docs.google.com/spreadsheets/d/17-cePCVTrSii_cqeCaBxXgTqAQEytrTk/edit?usp=sharing&ouid=108713575531525219545&rtpof=true&sd=true)
+
+Both can be found in files, normal BOM [here](/Resources/) and the PCBA BOM [here](/Models/ECADModels_Production/)
 
 ## Photos
 
@@ -119,6 +129,10 @@ Top of PCB
 Bottom of PCB
 
 ![Bottom of PCB](Images/Miniamp_PCB_Bottom.png)
+
+Render of PCB
+
+![Render of PCB](Images/Miniamp_PCB_Render.png)
 
 ## Credits
 
