@@ -33,6 +33,8 @@ A portable, battery powered Hi-Fi DAC and headphone amplifier.
 ## What is it?
 
 Miniamp is a portable, battery powered DAC and headphone amp designed for phones, portable devices, or for desk deployments. The Miniamp features a Hifi DAC chip capable of producing 24bit 44.1kHz outputs at 2.1Vrms, with adequite power for majority of headphones. It utilizes a Silicon Labs CP2615-A02-GM USB to I2S chip, a Cirrus Logic WM8524CGEDT DAC, and an Analog Devices MAX97220AETE+T headphone amplifier. It also has a battery charging and protection circuit to handle charing, protection, and output regulation to the ICs using 2 18650 batteries in a 1s2p configuration. This setup removes power draw from the data streaming device and offloads it to the batteries, with a passthrough power circuit to power all devices externally with a long battery life.
+
+I created this to have an easy device to bring around with me at school so I can use my wired headphones and control them without the need to open my phone for controls or worry about my phone dying which was really nice. It should work well and do exactly that since I love the apple dongle, but its just super small, feels like its gonna break, and just kinda basic without any controls.
  
 ## Resources
 
